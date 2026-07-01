@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Sahil3299/DSASolutions/tree/master/0925-long-pressed-name) |
 | [1668-maximum-repeating-substring](https://github.com/Sahil3299/DSASolutions/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sahil3299/DSASolutions/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Sahil3299/DSASolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sahil3299/DSASolutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2000-reverse-prefix-of-word](https://github.com/Sahil3299/DSASolutions/tree/master/2000-reverse-prefix-of-word) |
 ## Array
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sahil3299/DSASolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
+| [1773-count-items-matching-a-rule](https://github.com/Sahil3299/DSASolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table

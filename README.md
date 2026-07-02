@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sahil3299/DSASolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sahil3299/DSASolutions/tree/master/1389-create-target-array-in-the-given-order) |
 ## Sorting
 |  |

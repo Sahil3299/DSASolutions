@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0001-two-sum) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |

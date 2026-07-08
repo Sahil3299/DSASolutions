@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
+| [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil3299/DSASolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sahil3299/DSASolutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Sahil3299/DSASolutions/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sahil3299/DSASolutions/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

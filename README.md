@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil3299/DSASolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

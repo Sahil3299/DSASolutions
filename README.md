@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sahil3299/DSASolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
+| [0494-target-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sahil3299/DSASolutions/tree/master/0053-maximum-subarray) |
+| [0494-target-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Sahil3299/DSASolutions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/Sahil3299/DSASolutions/tree/master/1871-jump-game-vii) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Sahil3299/DSASolutions/tree/master/1871-jump-game-vii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

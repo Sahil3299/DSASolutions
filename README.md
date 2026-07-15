@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sahil3299/DSASolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sahil3299/DSASolutions/tree/master/0162-find-peak-element) |
 | [0494-target-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/0867-transpose-matrix) |
@@ -171,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sahil3299/DSASolutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->

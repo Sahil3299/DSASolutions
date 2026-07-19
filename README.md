@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sahil3299/DSASolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil3299/DSASolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sahil3299/DSASolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0410-split-array-largest-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil3299/DSASolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Stack
 |  |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sahil3299/DSASolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sahil3299/DSASolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 <!---LeetCode Topics End-->

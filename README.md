@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sahil3299/DSASolutions/tree/master/0326-power-of-three) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sahil3299/DSASolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sahil3299/DSASolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sahil3299/DSASolutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
 | [0925-long-pressed-name](https://github.com/Sahil3299/DSASolutions/tree/master/0925-long-pressed-name) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil3299/DSASolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |

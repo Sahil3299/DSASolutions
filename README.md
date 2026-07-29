@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Sahil3299/DSASolutions/tree/master/1854-maximum-population-year) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Sahil3299/DSASolutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sahil3299/DSASolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Sahil3299/DSASolutions/tree/master/1768-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Sahil3299/DSASolutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sahil3299/DSASolutions/tree/master/2000-reverse-prefix-of-word) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Sahil3299/DSASolutions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/Sahil3299/DSASolutions/tree/master/1871-jump-game-vii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil3299/DSASolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil3299/DSASolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -212,8 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Sahil3299/DSASolutions/tree/master/1095-find-in-mountain-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Sahil3299/DSASolutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Interactive
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Sahil3299/DSASolutions/tree/master/1095-find-in-mountain-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

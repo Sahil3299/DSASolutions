@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sahil3299/DSASolutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sahil3299/DSASolutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0494-target-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sahil3299/DSASolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sahil3299/DSASolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil3299/DSASolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sahil3299/DSASolutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Sahil3299/DSASolutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sahil3299/DSASolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sahil3299/DSASolutions/tree/master/0852-peak-index-in-a-mountain-array) |

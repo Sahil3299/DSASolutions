@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/Sahil3299/DSASolutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sahil3299/DSASolutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/Sahil3299/DSASolutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sahil3299/DSASolutions/tree/master/2000-reverse-prefix-of-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sahil3299/DSASolutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Sahil3299/DSASolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sahil3299/DSASolutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0494-target-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sahil3299/DSASolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sahil3299/DSASolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahil3299/DSASolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Sahil3299/DSASolutions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/Sahil3299/DSASolutions/tree/master/0925-long-pressed-name) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Sahil3299/DSASolutions/tree/master/1616-split-two-strings-to-make-palindrome) |

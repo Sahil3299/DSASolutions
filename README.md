@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Sahil3299/DSASolutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->

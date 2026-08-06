@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sahil3299/DSASolutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sahil3299/DSASolutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0039-combination-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sahil3299/DSASolutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sahil3299/DSASolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahil3299/DSASolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sahil3299/DSASolutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sahil3299/DSASolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil3299/DSASolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |

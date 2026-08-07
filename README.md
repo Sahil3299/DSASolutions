@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahil3299/DSASolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahil3299/DSASolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sahil3299/DSASolutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sahil3299/DSASolutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahil3299/DSASolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Sahil3299/DSASolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sahil3299/DSASolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |

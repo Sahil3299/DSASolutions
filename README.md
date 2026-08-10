@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sahil3299/DSASolutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Sahil3299/DSASolutions/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/Sahil3299/DSASolutions/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sahil3299/DSASolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Sahil3299/DSASolutions/tree/master/0925-long-pressed-name) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil3299/DSASolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sahil3299/DSASolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil3299/DSASolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sahil3299/DSASolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

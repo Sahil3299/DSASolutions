@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sahil3299/DSASolutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahil3299/DSASolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sahil3299/DSASolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sahil3299/DSASolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahil3299/DSASolutions/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sahil3299/DSASolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sahil3299/DSASolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sahil3299/DSASolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahil3299/DSASolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sahil3299/DSASolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

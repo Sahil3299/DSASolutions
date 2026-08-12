@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/Sahil3299/DSASolutions/tree/master/1854-maximum-population-year) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Sahil3299/DSASolutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahil3299/DSASolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sahil3299/DSASolutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahil3299/DSASolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Counting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahil3299/DSASolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sahil3299/DSASolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahil3299/DSASolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sahil3299/DSASolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort

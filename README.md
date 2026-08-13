@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sahil3299/DSASolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sahil3299/DSASolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sahil3299/DSASolutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Sahil3299/DSASolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sahil3299/DSASolutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sahil3299/DSASolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sahil3299/DSASolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sahil3299/DSASolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sahil3299/DSASolutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Sahil3299/DSASolutions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Sahil3299/DSASolutions/tree/master/0412-fizz-buzz) |
 | [0686-repeated-string-match](https://github.com/Sahil3299/DSASolutions/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sahil3299/DSASolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Sahil3299/DSASolutions/tree/master/0925-long-pressed-name) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahil3299/DSASolutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Sahil3299/DSASolutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Sahil3299/DSASolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sahil3299/DSASolutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |

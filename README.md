@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sahil3299/DSASolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sahil3299/DSASolutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahil3299/DSASolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahil3299/DSASolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahil3299/DSASolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sahil3299/DSASolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sahil3299/DSASolutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |

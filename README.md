@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sahil3299/DSASolutions/tree/master/1512-number-of-good-pairs) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sahil3299/DSASolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sahil3299/DSASolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/Sahil3299/DSASolutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sahil3299/DSASolutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
